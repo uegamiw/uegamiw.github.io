@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: jp
+lang: ja
 
 # Change to your timezone › https://zones.arilyn.cc
 timezone: US/Central
@@ -65,8 +65,8 @@ analytics:
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
-    id: # fill in your Umami ID
-    domain: # fill in your Umami domain
+    id: 515cf625-09ee-4c60-82ca-b96703a004e4 # fill in your Umami ID
+    domain: https://cloud.umami.is # fill in your Umami domain
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
@@ -104,7 +104,7 @@ avatar: assets/imgs/bluebunny.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: assets/imgs/The_Bunny_Post_Banner.jpg # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
