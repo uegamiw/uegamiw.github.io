@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 756.26001 492.61099"
+   width="756.26001"
+   height="492.61099"
+   font-family="Inter, system-ui, sans-serif"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="wsi-image-pyramid(1).svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs43" />
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.80634139"
+     inkscape:cx="498.54814"
+     inkscape:cy="210.20873"
+     inkscape:window-width="1708"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg43" />
+  <line
+     x1="255.75999"
+     y1="0.30693844"
+     x2="428.96002"
+     y2="355.30695"
+     stroke="#1f1d1a"
+     stroke-width="1.4"
+     id="line2" />
+  <line
+     x1="255.75999"
+     y1="0.30693844"
+     x2="82.559998"
+     y2="455.30695"
+     stroke="#1f1d1a"
+     stroke-width="1.4"
+     id="line3" />
+  <line
+     x1="257.76001"
+     y1="0.30693844"
+     x2="157.75999"
+     y2="318.70694"
+     stroke="#b3aea6"
+     stroke-width="1.4"
+     stroke-dasharray="6, 5"
+     id="line4" />
+  <polygon
+     points="283,161.65 214.7,152.5 233,118.35 301.3,127.5 "
+     fill="#ffffff"
+     fill-opacity="0.96"
+     id="polygon4"
+     transform="translate(-2.2400055,-39.693062)" />
+  <g
+     stroke="#6b6760"
+     stroke-width="0.9"
+     id="g10"
+     transform="translate(-2.2400055,-39.693062)">
+    <line
+       x1="233"
+       y1="118.35"
+       x2="214.7"
+       y2="152.5"
+       id="line5" />
+    <line
+       x1="267.14999"
+       y1="122.925"
+       x2="248.85001"
+       y2="157.075"
+       id="line6" />
+    <line
+       x1="301.29999"
+       y1="127.5"
+       x2="283"
+       y2="161.64999"
+       id="line7" />
+    <line
+       x1="233"
+       y1="118.35"
+       x2="301.29999"
+       y2="127.5"
+       id="line8" />
+    <line
+       x1="223.85001"
+       y1="135.425"
+       x2="292.14999"
+       y2="144.575"
+       id="line9" />
+    <line
+       x1="214.7"
+       y1="152.5"
+       x2="283"
+       y2="161.64999"
+       id="line10" />
+  </g>
+  <polygon
+     points="283,161.65 214.7,152.5 233,118.35 301.3,127.5 "
+     fill="none"
+     stroke="#1f1d1a"
+     stroke-width="1.3"
+     id="polygon10"
+     transform="translate(-2.2400055,-39.693062)" />
+  <polygon
+     points="308,293.3 171.4,275 208,206.7 344.6,225 "
+     fill="#ffffff"
+     fill-opacity="0.96"
+     id="polygon11"
+     transform="translate(-2.2400055,-39.693062)" />
+  <g
+     stroke="#6b6760"
+     stroke-width="0.9"
+     id="g20"
+     transform="translate(-2.2400055,-45.693062)">
+    <line
+       x1="208"
+       y1="206.7"
+       x2="171.39999"
+       y2="275"
+       id="line11" />
+    <line
+       x1="242.14999"
+       y1="211.27499"
+       x2="205.55"
+       y2="279.57501"
+       id="line12" />
+    <line
+       x1="276.29999"
+       y1="215.85001"
+       x2="239.7"
+       y2="284.14999"
+       id="line13" />
+    <line
+       x1="310.45001"
+       y1="220.425"
+       x2="273.85001"
+       y2="288.72501"
+       id="line14" />
+    <line
+       x1="344.60001"
+       y1="225"
+       x2="308"
+       y2="293.29999"
+       id="line15" />
+    <line
+       x1="208"
+       y1="206.7"
+       x2="344.60001"
+       y2="225"
+       id="line16" />
+    <line
+       x1="198.85001"
+       y1="223.77499"
+       x2="335.45001"
+       y2="242.075"
+       id="line17" />
+    <line
+       x1="189.7"
+       y1="240.85001"
+       x2="326.29999"
+       y2="259.14999"
+       id="line18" />
+    <line
+       x1="180.55"
+       y1="257.92499"
+       x2="317.14999"
+       y2="276.22501"
+       id="line19" />
+    <line
+       x1="171.39999"
+       y1="275"
+       x2="308"
+       y2="293.29999"
+       id="line20" />
+  </g>
+  <polygon
+     points="344.6,225 308,293.3 171.4,275 208,206.7 "
+     fill="none"
+     stroke="#1f1d1a"
+     stroke-width="1.3"
+     id="polygon20"
+     transform="translate(-2.2400055,-45.693062)" />
+  <polygon
+     points="358,531.6 84.8,495 158,358.4 431.2,395 "
+     fill="#ffffff"
+     fill-opacity="0.96"
+     id="polygon21"
+     transform="translate(-2.2400055,-39.693062)" />
+  <g
+     stroke="#6b6760"
+     stroke-width="0.9"
+     id="g38"
+     transform="translate(-2.2400055,-39.693062)">
+    <line
+       x1="158"
+       y1="358.39999"
+       x2="84.800003"
+       y2="495"
+       id="line21" />
+    <line
+       x1="192.14999"
+       y1="362.97501"
+       x2="118.95"
+       y2="499.57501"
+       id="line22" />
+    <line
+       x1="226.3"
+       y1="367.54999"
+       x2="153.10001"
+       y2="504.14999"
+       id="line23" />
+    <line
+       x1="260.45001"
+       y1="372.125"
+       x2="187.25"
+       y2="508.72501"
+       id="line24" />
+    <line
+       x1="294.60001"
+       y1="376.70001"
+       x2="221.39999"
+       y2="513.29999"
+       id="line25" />
+    <line
+       x1="328.75"
+       y1="381.27499"
+       x2="255.55"
+       y2="517.875"
+       id="line26" />
+    <line
+       x1="362.89999"
+       y1="385.85001"
+       x2="289.70001"
+       y2="522.45001"
+       id="line27" />
+    <line
+       x1="397.04999"
+       y1="390.42499"
+       x2="323.85001"
+       y2="527.02502"
+       id="line28" />
+    <line
+       x1="431.20001"
+       y1="395"
+       x2="358"
+       y2="531.59998"
+       id="line29" />
+    <line
+       x1="158"
+       y1="358.39999"
+       x2="431.20001"
+       y2="395"
+       id="line30" />
+    <line
+       x1="148.85001"
+       y1="375.47501"
+       x2="422.04999"
+       y2="412.07501"
+       id="line31" />
+    <line
+       x1="139.7"
+       y1="392.54999"
+       x2="412.89999"
+       y2="429.14999"
+       id="line32" />
+    <line
+       x1="130.55"
+       y1="409.625"
+       x2="403.75"
+       y2="446.22501"
+       id="line33" />
+    <line
+       x1="121.4"
+       y1="426.70001"
+       x2="394.60001"
+       y2="463.29999"
+       id="line34" />
+    <line
+       x1="112.25"
+       y1="443.77499"
+       x2="385.45001"
+       y2="480.375"
+       id="line35" />
+    <line
+       x1="103.1"
+       y1="460.85001"
+       x2="376.29999"
+       y2="497.45001"
+       id="line36" />
+    <line
+       x1="93.949997"
+       y1="477.92499"
+       x2="367.14999"
+       y2="514.52502"
+       id="line37" />
+    <line
+       x1="84.800003"
+       y1="495"
+       x2="358"
+       y2="531.59998"
+       id="line38" />
+  </g>
+  <polygon
+     points="358,531.6 84.8,495 158,358.4 431.2,395 "
+     fill="none"
+     stroke="#1f1d1a"
+     stroke-width="1.3"
+     id="polygon38"
+     transform="translate(-2.2400055,-39.693062)" />
+  <polyline
+     points="305.29999999999995,127.49999999999999 456,120 464,120"
+     fill="none"
+     stroke="#56524b"
+     stroke-width="1"
+     id="polyline38"
+     transform="translate(-2.2400055,-39.693062)" />
+  <circle
+     cx="303.06"
+     cy="87.806938"
+     r="2"
+     fill="#56524b"
+     id="circle38" />
+  <text
+     x="467.76001"
+     y="85.306938"
+     font-size="16px"
+     font-weight="500"
+     fill="#1f1d1a"
+     id="text38">Thumbnail image</text>
+  <polyline
+     points="348.6,224.99999999999997 456,215 464,215"
+     fill="none"
+     stroke="#56524b"
+     stroke-width="1"
+     id="polyline39"
+     transform="translate(-2.2400055,-45.693062)" />
+  <circle
+     cx="346.35999"
+     cy="185.30695"
+     r="2"
+     fill="#56524b"
+     id="circle39" />
+  <text
+     x="467.76001"
+     y="174.30695"
+     font-size="16px"
+     font-weight="500"
+     fill="#1f1d1a"
+     id="text39">Intermediate image tiles</text>
+  <polyline
+     points="435.20000000000005,395 456,392 464,392"
+     fill="none"
+     stroke="#56524b"
+     stroke-width="1"
+     id="polyline40"
+     transform="translate(-2.2400055,-39.693062)" />
+  <circle
+     cx="432.96002"
+     cy="355.30695"
+     r="2"
+     fill="#56524b"
+     id="circle40" />
+  <text
+     x="467.76001"
+     y="357.30695"
+     font-size="16px"
+     font-weight="500"
+     fill="#1f1d1a"
+     id="text40">Baseline image tiles (full resolution)</text>
+  <line
+     x1="57.759995"
+     y1="90.306938"
+     x2="57.759995"
+     y2="430.30695"
+     stroke="#56524b"
+     stroke-width="1.2"
+     id="line40" />
+  <polygon
+     points="64,134 60,124 56,134 "
+     fill="#56524b"
+     id="polygon40"
+     transform="translate(-2.2400055,-39.693062)" />
+  <polygon
+     points="64,466 60,476 56,466 "
+     fill="#56524b"
+     id="polygon41"
+     transform="translate(-2.2400055,-39.693062)" />
+  <text
+     x="47.759995"
+     y="88.306938"
+     font-size="12px"
+     fill="#56524b"
+     text-anchor="end"
+     id="text41">低解像度</text>
+  <text
+     x="47.759995"
+     y="434.30695"
+     font-size="12px"
+     fill="#56524b"
+     text-anchor="end"
+     id="text42">高解像度</text>
+  <text
+     transform="rotate(-90)"
+     font-size="12px"
+     fill="#56524b"
+     text-anchor="middle"
+     id="text43"
+     x="-260.30695"
+     y="37.759995">解像度 / Resolution</text>
+  <line
+     x1="255.75999"
+     y1="0.30693844"
+     x2="355.76001"
+     y2="491.90692"
+     stroke="#1f1d1a"
+     stroke-width="1.4"
+     id="line1" />
+</svg>
